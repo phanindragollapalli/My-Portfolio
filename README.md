@@ -45,3 +45,4 @@ For styling, I used CSS variables for a dynamic theming system, CSS Flexbox and 
 
 The portfolio loads as a single-page application. Users can click tabs at the top to navigate between different sections. There's a theme toggle button that switches between light and dark modes, and the preference is saved in the browser so it persists across visits. All content is self-contained in a single HTML file with styling and interactivity handled by CSS and JavaScript respectively.
 
+Note : This website gets updated as i move on in my life and learn new things :)
