@@ -1,6 +1,6 @@
 # My Portfolio
 
-I built a modern, responsive portfolio website to showcase my projects, skills, experience, and achievements as a B.Tech Computer Science student at IIIT Hyderabad.
+I built a modern, responsive portfolio website to showcase my projects, skills, experience, and achievements as a Computer Science Engineer.
 
 ## Features
 
