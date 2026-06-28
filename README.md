@@ -1,12 +1,13 @@
 # My Portfolio
 
-I built a modern, responsive portfolio website to showcase my projects, skills, experience, and achievements as a Computer Science Engineer.
+This is a modern, responsive portfolio website to showcase my projects, skills, experience, research interests, achievements etc...
 
 ## Features
 
-The website is fully responsive and works seamlessly across desktop, tablet, and mobile devices. I implemented tab-based navigation to switch between 8 distinct portfolio sections. Users can toggle between light and dark themes, with their preference saved in the browser. The design includes smooth CSS transitions and hover effects for a polished experience.
+The website is fully responsive and works seamlessly across desktop, tablet, and mobile devices. It includes tab-based navigation to switch between 9 distinct portfolio sections. Users can toggle between light and dark themes, with their preference saved in the browser. The design includes smooth CSS transitions and hover effects for a polished experience.
 
-The portfolio is organized into 8 main sections:
+The portfolio is organized into 9 main sections:
+- **Home** - The landing section
 - **About Me** - My personal introduction and background
 - **Education** - My academic journey from elementary school through university
 - **Skills** - My technical expertise organized by domain
@@ -26,10 +27,11 @@ portfolio/
 ├── README.md           # This file
 └── assets/
     ├── images/
-    │   └── My_pic.jpg          # Profile photo
+    │   └── My_pic.jpeg         # Profile photo
     ├── documents/
-    │   └── My_CV.pdf           # Resume/CV
-    └── videos/                  # Video content
+    │   ├── My_CV.pdf           # Resume/CV
+    │   └── LoR_G.Phanindra.pdf # Letter of Recommendation
+    └── videos/                 # Video content (currently there is nothing... :)   
 ```
 
 ## Technology Stack
