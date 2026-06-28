@@ -36,12 +36,12 @@ portfolio/
 
 ## Technology Stack
 
-I built this using pure frontend technologies:
+This is built using pure frontend technologies:
 - **HTML5** - Semantic markup
 - **CSS3** - Modern styling with CSS custom properties for theming
 - **JavaScript** - Vanilla JS for tab navigation and theme management (no frameworks)
 
-For styling, I used CSS variables for a dynamic theming system, CSS Flexbox and Grid for layouts, and media queries for responsive design. The design system includes a custom font stack (Fraunces for headings, Source Sans 3 for body), a color palette customizable through CSS variables, and consistent spacing and border radius scales.
+For styling, CSS variables for a dynamic theming system, CSS Flexbox and Grid for layouts are used, and media queries for responsive design. The design system includes a custom font stack (Fraunces for headings, Source Sans 3 for body), a color palette customizable through CSS variables, and consistent spacing and border radius scales.
 
 ## How It Works
 
